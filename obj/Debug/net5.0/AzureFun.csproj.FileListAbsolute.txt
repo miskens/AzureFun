@@ -1,0 +1,8 @@
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.AssemblyInfo.cs
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.RazorAssemblyInfo.cache
+D:\Projects\VS Projects\AzureFun\obj\Debug\net5.0\AzureFun.RazorAssemblyInfo.cs
